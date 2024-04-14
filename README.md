@@ -1,5 +1,4 @@
 ❤️ I fell in love with web development ever since I started building UIs in my custom [Minecraft client](https://strif.vercel.app) written in Java. <br />
-If it wasn't for TypeScript I probably wouldn't be developing for the web.
 
 🔎 Looking for a role in frontend web development, with a company/team that solves interesting problems, <br /> cares very deeply about their product, and ideally working with Next.js and/or React.
 
